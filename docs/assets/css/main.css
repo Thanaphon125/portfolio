@@ -1,6 +1,6 @@
 body {
     font-family: 'Kanit', sans-serif;
-    background-image: url('./assets/img/ไฮเทคใหม่.jpg');
+    background-image: url('../img/ไฮเทคใหม่.jpg');
     /* background-repeat: no-repeat; */
     background-size: cover;
 }
