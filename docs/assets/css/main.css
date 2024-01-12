@@ -1,0 +1,14 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    background-image: url('/portfolio/assets/img/ไฮเทคใหม่.jpg');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+
+.box-profile {
+    background-size: cover;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px !important;
+}
